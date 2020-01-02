@@ -7,6 +7,8 @@ This is Ruby on Rails Tutorials Repo.
 
 Things you may want to cover:
 
+* Nila is a Fat Moon !!!!!
+
 * Ruby version
 
 * System dependencies
