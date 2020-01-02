@@ -5,8 +5,8 @@ This is Ruby on Rails Tutorials Repo.
 
 * This is my nila branch
 
-* Jason is a pig
+* Jason is a GIANT PIG!!!
 
-* Nila is a SUPER DUPER FAT FAT Moon !!!!!
+* Jason is SUPER DUPER LAZY PIGG!!!
 
 * Jason is a lazy pig!!!
