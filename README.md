@@ -1,10 +1,3 @@
 # RUBYBLOG
 
-
-
-
-
-
-
-
-Jason is a pig!!
+I am Cute !!! -Pavitra
